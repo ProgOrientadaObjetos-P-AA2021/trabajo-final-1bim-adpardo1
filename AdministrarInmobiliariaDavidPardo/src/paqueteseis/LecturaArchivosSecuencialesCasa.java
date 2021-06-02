@@ -90,7 +90,7 @@ public class LecturaArchivosSecuencialesCasa {
             l=1;
         }
         if(l!=1){
-            cadena="No hay propietario a esa identificacion";
+            cadena="No hay casa a esa identificacion";
         }
         return cadena;
     }
