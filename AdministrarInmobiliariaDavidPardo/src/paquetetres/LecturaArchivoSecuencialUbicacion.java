@@ -85,7 +85,7 @@ public class LecturaArchivoSecuencialUbicacion {
             }            
         }
         if(l!=1){
-            cadena="No hay propietario a esa identificacion";
+            cadena="No hay ubicacion con esa referencia";
         }
         return cadena;
     }
