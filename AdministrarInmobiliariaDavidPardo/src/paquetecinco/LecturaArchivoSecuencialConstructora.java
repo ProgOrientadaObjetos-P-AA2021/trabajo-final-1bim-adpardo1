@@ -88,7 +88,7 @@ public class LecturaArchivoSecuencialConstructora {
             }            
         }
         if(l!=1){
-            cadena="No hay propietario a esa identificacion";
+            cadena="No hay constructora a esa identificacion";
         }
         return cadena;
     }
