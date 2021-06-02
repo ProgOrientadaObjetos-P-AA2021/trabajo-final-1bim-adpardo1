@@ -91,7 +91,7 @@ public class LecturaArchivosSecuencialesDepartamento {
             }            
         }
         if(l!=1){
-            cadena="No hay propietario a esa identificacion";
+            cadena="No hay departamento a esa identificacion";
         }
         return cadena;
     }
